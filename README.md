@@ -1,0 +1,1 @@
+Express.js + typescript + dependency injection + repository pattern + generic repository + unit of work 
